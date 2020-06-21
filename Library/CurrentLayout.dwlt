@@ -114,8 +114,8 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 915, y: 274}
-  m_MaxSize: {x: 22010, y: 10024}
+  m_MinSize: {x: 913, y: 274}
+  m_MaxSize: {x: 22008, y: 10024}
   vertical: 0
   controlID: 71
 --- !u!114 &6
@@ -164,8 +164,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 731
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -216,8 +216,8 @@ MonoBehaviour:
     y: 0
     width: 314
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -260,10 +260,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -391
-    m_HBaseRangeMax: 391
-    m_VBaseRangeMin: -347
-    m_VBaseRangeMax: 347
+    m_HBaseRangeMin: -312.80002
+    m_HBaseRangeMax: 312.80002
+    m_VBaseRangeMin: -277.6
+    m_VBaseRangeMax: 277.6
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -415,7 +415,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9a50ffff4c54ffff7254ffff6859ffffdcfbffff144600003c4a0000924d0000
+      m_ExpandedIDs: b094ffffd894ffffce99ffff20abffffd2aefffffaaefffff4b3ffffdcfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -488,7 +488,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 6a0a0000
     m_LastClickedID: 2666
-    m_ExpandedIDs: 00000000ba2e0000f23000002232000048350000d0370000
+    m_ExpandedIDs: 00000000ba2e0000f230000022320000e6320000483500009e360000d0370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -519,18 +519,18 @@ MonoBehaviour:
     m_ExpandedIDs: ffffffff00000000ba2e0000f230000022320000e6320000483500009e360000d0370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Ghost
-      m_OriginalName: Ghost
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 14248
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
